@@ -1,0 +1,44 @@
+The Batman
+Circle
+Square
+Rectangle
+Diamond
+Rhombus
+Parallelogram
+Annulus
+Trapezoid
+The Penguine
+Equilateral Triangle
+Isoscles Triangle
+Scalene Triangle
+Right Triangle
+Obtuse Triangle
+Acute Triangle
+hexagon
+pentagon
+octagon
+Nonagon
+The Joker
+Decagon
+Hendecagon
+Dodecagon
+Ellipse
+Crescent
+Cuboid
+Cube
+Sphere
+Ellipsoid
+The Riddler
+Cylinder
+Cone
+Triangular Prism
+Hexagonal Prism
+Triangular-based Pyramid
+Square-based Pyramid
+Hexagonal Pyramid
+Tetrahedron
+regular hexahedron
+Catwoman
+Octahedron
+Dodecahedron
+Icosahedron
